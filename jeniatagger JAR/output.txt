@@ -1,0 +1,7 @@
+GTP	GTP	NN	B-NP	O
+hydrolysis	hydrolysis	NN	I-NP	O
+triggers	trigger	VBZ	B-VP	O
+the	the	DT	B-NP	O
+Ras	Ras	NN	I-NP	O
+pathway.	pathway.	NN	I-NP	O
+
